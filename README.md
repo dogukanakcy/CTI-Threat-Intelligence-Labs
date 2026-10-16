@@ -9,6 +9,7 @@ Welcome to my CTI and Threat Hunting repository. This repository contains my han
 ### 🌐 TryHackMe Labs
 * 📄 **[Intro to Cyber Threat Intel](./TryHackMe/Intro-to-CTI.md)** — *Fundamentals of CTI, Intelligence Cycle, Pyramid of Pain & TTPs.*
 * 📄 **[Google Dorking](./TryHackMe/Google-Dorking.md)** — *Advanced search operators, OSINT reconnaissance, and exposed asset discovery.*
+* 📄 **[YARA Rules & Malware Detection](./TryHackMe/YARA.md)** — *Malware signature creation, threat hunting rules, and IoC pattern matching.*
 ---
 
 ## 🛠️ Key Topics Covered
