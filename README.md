@@ -11,6 +11,7 @@ Welcome to my CTI and Threat Hunting repository. This repository contains my han
 * 📄 **[Google Dorking](./TryHackMe/Google-Dorking.md)** — *Advanced search operators, OSINT reconnaissance, and exposed asset discovery.*
 * 📄 **[YARA Rules & Malware Detection](./TryHackMe/YARA.md)** — *Malware signature creation, threat hunting rules, and IoC pattern matching.*
 * 📄 **[Phishing Email Analysis](./TryHackMe/Phishing-Analysis.md)** — *Email header analysis, SPF/DKIM/DMARC verification, and IoC extraction.*
+* 📄 **[CyberChef & Data Analysis](./TryHackMe/CyberChef.md)** — *Payload deobfuscation, IoC defanging, hash generation, and recipe automation.*
 ---
 
 ## 🛠️ Key Topics Covered
